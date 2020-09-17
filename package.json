@@ -10,8 +10,12 @@
     "eslint:fix": "eslint --fix ./scripts/*"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Aromal Anil",
+    "email": "contact@aromalanil.me",
+    "url": "https://aromalanil.me"
+  },
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.0",
